@@ -1,5 +1,5 @@
 Red [
-    Title: "tsch"
+    Title: "hello Deutschland"
 ]
 
-print "tsch"
+print "hello Deutschland"

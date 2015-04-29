@@ -1,2 +1,2 @@
-print "land\n"
+print "hello Deutschland\n"
 end
